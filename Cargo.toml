@@ -1,0 +1,9 @@
+[package]
+name = "hotline-core"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.86"
+
+[dependencies]
+bitcode = "0.6.9"
+crossfire = "3.1.20"
